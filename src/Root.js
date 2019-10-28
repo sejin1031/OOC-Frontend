@@ -6,7 +6,8 @@ import "./index.scss";
 
 const Root = () => {
   return (
-    <Router />
+    <Router>
+    </Router>
   );
 };
 

@@ -1,0 +1,10 @@
+.book{
+  margin-left: 30%;
+  .nextButton{
+    width: 10vh;
+    border: black 2px solid;
+    &:hover{
+      cursor: pointer;
+    }
+  }
+}
